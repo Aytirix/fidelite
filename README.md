@@ -21,11 +21,3 @@ Il est crucial que les utilisateurs de ce projet comprennent qu'il est destiné 
 ## Archivage du Projet
 
 Ce projet est archivé et n'est destiné qu'à servir de ressource éducative. Nous insistons sur le fait que toute utilisation pratique de ce projet est illégale et formellement déconseillée.
-
-## Contact
-
-Pour plus d'informations sur les objectifs éducatifs de ce projet ou pour discuter de son contenu de manière plus approfondie, n'hésitez pas à contacter [nom de l'organisateur ou du responsable] à [adresse email].
-
-## Licence
-
-Ce projet est distribué sous la licence [Nom de la Licence] qui permet une utilisation, distribution et modification du code source uniquement dans un cadre éducatif et non-commercial.
